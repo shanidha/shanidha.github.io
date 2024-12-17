@@ -75752,7 +75752,7 @@ return new A.qt(new A.a8j(s,3,3,r),new A.a8e(new A.a0s(p.a,b),q,!0,!0,!0,o),o,B.
 $S:468}
 A.a0s.prototype={
 $2(a,b){var s=null,r=J.bl(this.b,b),q=A.uX(12),p=A.b([new A.dd(0,B.dv,B.la,new A.i(2,2),5)],t.sq),o=r.b,n=t.E
-return A.i1(A.FB(s,A.Fv(A.b([A.anJ(B.l,A.anJ(s,A.fP(B.d.a_(o,0,1).toUpperCase(),s,s,s,A.ui().$2$fontSize$fontWeight(24,B.bp),s,s),30),40),new A.Gf(30,30,B.l,s),A.fP(" Name : "+o,s,s,s,A.ui().$3$color$fontSize$fontWeight(B.F,18,B.bp),s,s),A.fP(" Age : "+o,s,s,s,A.ui().$3$color$fontSize$fontWeight(B.fJ,14,B.n),s,s),A.fP(" PhoneNumber : "+r.e,s,s,s,A.ui().$3$color$fontSize$fontWeight(B.fJ,14,B.n),s,s),A.fP(" Batch  : "+r.d,s,s,s,A.ui().$3$color$fontSize$fontWeight(B.fJ,14,B.n),s,s),A.aqi(A.b([A.akE(A.a_B(B.Cw,B.fJ),new A.a0q(this.a,r),s),A.akE(A.a_B(B.Cv,B.rc),new A.a0r(r),s)],n),B.r2,B.fH)],n),B.bl,B.ec),B.Q,s,new A.dL(B.k,s,s,q,p,s,B.aR),s,s,s,new A.aP(10,10,10,10),s,s,s),s,s)},
+return A.i1(A.FB(s,A.Fv(A.b([A.anJ(B.l,A.anJ(s,A.fP(B.d.a_(o,0,1).toUpperCase(),s,s,s,A.ui().$2$fontSize$fontWeight(24,B.bp),s,s),30),40),new A.Gf(30,30,B.l,s),A.fP(" Name : "+o,s,s,s,A.ui().$3$color$fontSize$fontWeight(B.F,18,B.bp),s,s),A.fP(" Age : "+r.c,s,s,s,A.ui().$3$color$fontSize$fontWeight(B.fJ,14,B.n),s,s),A.fP(" PhoneNumber : "+r.e,s,s,s,A.ui().$3$color$fontSize$fontWeight(B.fJ,14,B.n),s,s),A.fP(" Batch  : "+r.d,s,s,s,A.ui().$3$color$fontSize$fontWeight(B.fJ,14,B.n),s,s),A.aqi(A.b([A.akE(A.a_B(B.Cw,B.fJ),new A.a0q(this.a,r),s),A.akE(A.a_B(B.Cv,B.rc),new A.a0r(r),s)],n),B.r2,B.fH)],n),B.bl,B.ec),B.Q,s,new A.dL(B.k,s,s,q,p,s,B.aR),s,s,s,new A.aP(10,10,10,10),s,s,s),s,s)},
 $S:469}
 A.a0q.prototype={
 $0(){return this.a.c.$1(this.b)},
